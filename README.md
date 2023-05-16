@@ -1,4 +1,4 @@
-# Customer behaviour analysis
+# Customer behaviour analysis 
 <img width="1412" alt="logo" src="https://user-images.githubusercontent.com/67431758/230641502-12e7ed59-6b09-47a3-998b-1c0d65840358.png">
 The datasets come from the internal data sources (ERP, customer database, and transactions) of the virtual Lapage company
 <br>
